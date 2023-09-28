@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "yarn": "^1.22.19"
+  },
+  "name": "inventory-acc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamrul-CSE-official/inventory_ACC.git",
+  "author": "Kamrul-Official <kamrul.manzur@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
